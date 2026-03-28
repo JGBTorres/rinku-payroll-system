@@ -1,8 +1,8 @@
+# Punto B: Diagrama de Secuencia - Proceso de Cálculo
 
+Este diagrama describe el flujo de interacción entre los componentes del sistema para realizar el cálculo del sueldo mensual, cumpliendo estrictamente con las reglas de negocio de Rinku.
 
-
-
-
+```mermaid
 sequenceDiagram
     autonumber
     actor Usuario
